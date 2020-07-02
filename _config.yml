@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jack's Website
+title: Jack T 
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -22,9 +22,13 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-  Author's home: "http://deanattali.com"
+    - Learn Jekyll: "https://jekyllcn.com/docs/upgrading/0-to-2/"
+    - Learn Liquid: "https://liquid.bootcss.com/basics/introduction/"
+    - Learn Markdown: "http://www.markdowntutorial.com/"
+    - Learn Vim: "https://coolshell.cn/articles/5426.html"
+    - Learn Git: "https://www.liaoxuefeng.com/wiki/896043488029600"
+
+  Author's home: "https://github.com/ttpc2008"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -60,7 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Jack Tao
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,10 +72,10 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "ttpc2008.jack@gmail.com"
+  # facebook: deanattali
+  github:  ttpc2008
+  # twitter: daattali
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
@@ -93,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://ttpc2008.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
