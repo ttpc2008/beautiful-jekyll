@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: Jack T 
+title: JACK T 
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -97,7 +97,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://ttpc2008.github.io/"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://ttpc2008.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
