@@ -1,7 +1,7 @@
 # --- General options --- #
 
 # Name of website
-title: JACK T 
+title: HOME
 
 # Short description of your site
 description: A virtual proof that I'm awesome
@@ -22,7 +22,7 @@ description: A virtual proof that I'm awesome
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Learn Jekyll: "https://jekyllcn.com/docs/upgrading/0-to-2/"
+    - Learn Jekyll: "https://jekyllcn.com/docs/home/"
     - Learn Liquid: "https://liquid.bootcss.com/basics/introduction/"
     - Learn Markdown: "http://www.markdowntutorial.com/"
     - Learn Vim: "https://coolshell.cn/articles/5426.html"
@@ -64,8 +64,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Jack Tao
-
+  name: JACK T
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
