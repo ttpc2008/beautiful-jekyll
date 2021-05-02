@@ -2,10 +2,11 @@
 layout: post
 title: 知乎高赞回复 
 image: /img/hello_world.jpeg
-tags: [life]
+tags: [life,study]
 ---
 
 ## 学习和交友
+
  > 你必须时刻强迫自己去做
 
 ---
