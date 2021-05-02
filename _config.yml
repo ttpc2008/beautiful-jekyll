@@ -159,6 +159,7 @@ title-separator: "-"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
+# permalink: /:year-:month-:day-:title/
 permalink: /:year-:month-:day-:title/
 paginate: 5
 

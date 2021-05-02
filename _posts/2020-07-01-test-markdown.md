@@ -60,6 +60,7 @@ foo(3)
 {% endhighlight %}
 
 ## Boxes
+
 You can add notification, warning and error boxes like this:
 
 ### Notification
@@ -82,3 +83,4 @@ You can add notification, warning and error boxes like this:
 ### Use Typora to add images
 
 ![img](../img/e1ExFWv.png)
+
