@@ -81,4 +81,4 @@ You can add notification, warning and error boxes like this:
 
 ### Use Typora to add images
 
-![Girl](2020-07-01-test-markdown.assets/wxDJZmY_d.png)
+![img](../img/e1ExFWv.png)
