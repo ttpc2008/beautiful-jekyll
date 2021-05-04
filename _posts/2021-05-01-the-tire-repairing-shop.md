@@ -3,8 +3,8 @@ layout: post
 title: 轮胎店
 image: /img/tire.jpg
 tags: [life]
-
 ---
+
 
 - [熟悉的店，熟悉的人](#熟悉的店熟悉的人)
 - [物是人非，中年壮老板](#物是人非中年壮老板)
