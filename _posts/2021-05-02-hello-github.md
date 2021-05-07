@@ -150,5 +150,5 @@ C:/Ruby27-x64/lib/ruby/gems/2.7.0/gems/jekyll-3.7.4/lib/jekyll/convertible.rb:43
 
 
 
-Enjoy！
+
 
