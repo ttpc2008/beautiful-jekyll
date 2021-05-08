@@ -14,7 +14,6 @@
     <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" />
   </a>
 </p>
-
 ### Table of contents
 
 - [Prerequisites](#prerequisites)
