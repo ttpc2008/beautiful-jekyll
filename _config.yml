@@ -121,7 +121,7 @@ url-pretty: "https://ttpc2008.github.io"  # eg. "deanattali.com/beautiful-jekyll
 # --- Comments --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-# disqus: ""
+ disqus: "ttpc2008"
 
 # If you want to use JustComments fill with the API Key
 #just-comments: "ABCD-EFGH-IJKL"
