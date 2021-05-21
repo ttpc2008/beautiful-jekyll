@@ -32,7 +32,7 @@ A[方形] -->B(圆角)
 ```
 
 
-
+<div class="mermaid">
 ```mermaid
 graph LR
 A[方形] -->B(圆角)
@@ -41,6 +41,7 @@ A[方形] -->B(圆角)
     C -->|a=2| E[结果2]
     F[横向流程图]
 ```
+</div>
 
 2.**横向流程图源码格式**：
 
@@ -54,6 +55,7 @@ A[方形] --> B(圆角)
 ```
 
 
+<div class="mermaid">
 ```mermaid
 graph TD
 A[方形] --> B(圆角)
@@ -62,6 +64,7 @@ A[方形] --> B(圆角)
     C --> |a=2| E[结果2]
     F[竖向流程图]
 ```
+</div>
 
 3. 纵向子图
 
@@ -79,6 +82,7 @@ graph TB
     end
 ```
 
+<div class="mermaid">
 ```mermaid
 graph TB
     c1-->a2
@@ -92,6 +96,7 @@ graph TB
     c1-->c2
     end
 ```
+</div>
 
 4. 饼图
 
@@ -111,6 +116,7 @@ pie
 ```
 
 
+<div class="mermaid">
 ```mermaid
 pie 
 title Pets adopted by volunteers
@@ -118,6 +124,7 @@ title Pets adopted by volunteers
     "Cats" : 350
     "Rats" : 150
 ```
+</div>
 
 5. **类图**
 
@@ -154,6 +161,7 @@ classDiagram
       }
 ```
 
+<div class="mermaid">
 ```mermaid
 classDiagram
       Animal <|-- Duck
@@ -177,6 +185,7 @@ classDiagram
           +run()
       }
 ```
+</div>
 
 6. 状态图
 
@@ -196,12 +205,13 @@ stateDiagram
 
 
 
+<div class="mermaid">
 ```mermaid
 stateDiagram
     [*] --> s1
     s1 --> [*]
 ```
-
+</div>
 
 
 
@@ -233,6 +243,7 @@ stateDiagram
     李四-->王五: 很好!
 ```
 
+<div class="mermaid">
 ```mermaid
 %% 时序图例子,-> 直线，-->虚线，->>实线箭头
   sequenceDiagram
@@ -247,6 +258,7 @@ stateDiagram
     王五->李四: 你怎么样?
     李四-->王五: 很好!
 ```
+</div>
 
 8、甘特图样例：
 
@@ -283,6 +295,7 @@ stateDiagram
         测试报告                               : 48h
 ```
 
+<div class="mermaid">
 ```mermaid
 %% 语法示例
         gantt
@@ -304,6 +317,7 @@ stateDiagram
         压力测试                               :after a1  , 20h
         测试报告                               : 48h
 ```
+</div>
 
 9. 图形着色（过于复杂，效率低下）
 
@@ -313,24 +327,28 @@ graph LR
     style id1 fill:#f9f,stroke:#333,stroke-width:4px
     style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 ```
+
+<div class="mermaid">
 ```mermaid
 graph LR
     id1(Start)-->id2(Stop)
     style id1 fill:#f9f,stroke:#333,stroke-width:4px
     style id2 fill:#bbf,stroke:#f66,stroke-width:2px,color:#fff,stroke-dasharray: 5 5
 ```
-
+</div>
 
 
 ###  Mermaid流程图练习
 
+<div class="mermaid">
 ```mermaid
 graph LR
 A{{计划}}--->|批准的变更申请|B{{关务}} & C{{仓库}} -->D[[仓库重建LOAD]] --> E[[关务重建运单及提货日期]] --> F((货代到仓库提货))
 
 A -.-> |确认是否及时提货|F
-```
 
+```
+</div>
 
 
 
