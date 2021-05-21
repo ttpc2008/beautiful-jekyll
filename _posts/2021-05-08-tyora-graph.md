@@ -8,7 +8,6 @@ tags: [code,study,typora,mermaid]
 
 **Markdown**的画图扩展语法方面**Mermaid**已经一统六国，不建议在其它小众的画图语法上浪费时间
 
-```
 <script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 
@@ -26,7 +25,6 @@ graph TD
     style A fill:#ccf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5
 
 </div>
-```
 
 
 ## Mermaid 流程图
