@@ -3,6 +3,7 @@ layout: post
 title: 美人鱼画图(Mermaid)
 image: /img/flow.jpg
 tags: [code,study,typora,mermaid]
+mermaid: true
 ---
 
 **Markdown**的画图扩展语法方面**Mermaid**已经一统六国，不建议在其它小众的画图语法上浪费时间。
