@@ -7,7 +7,20 @@ tags: [code,study,typora,mermaid]
 ---
 
 **Markdown**的画图扩展语法方面**Mermaid**已经一统六国，不建议在其它小众的画图语法上浪费时间。
-
+<script src="/js/mermaid.min.js"></script>
+<div class="mermaid">
+graph TD
+    A(Java)
+    B(Java se)
+    C(Java ee)
+    D(Java me)
+    A-.->B
+    A-.->C
+    A-.->D
+    classDef className fill:#f9f,stroke:#333,stroke-width:4px;
+    class B,C,D className;
+    style A fill:#ccf,stroke:#f66,stroke-width:2px,stroke-dasharray: 5, 5
+</div>
 
 
 ## Mermaid 流程图
@@ -33,14 +46,12 @@ A[方形] -->B(圆角)
 
 <script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
-```mermaid
 graph LR
 A[方形] -->B(圆角)
     B --> C{条件a}
     C -->|a=1| D[结果1]
     C -->|a=2| E[结果2]
     F[横向流程图]
-```
 </div>
 
 2.**横向流程图源码格式**：
