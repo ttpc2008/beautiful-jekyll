@@ -3,7 +3,7 @@ layout: post
 title: 美人鱼画图(Mermaid)
 image: /img/flow.jpg
 tags: [code,study,typora,mermaid]
-mermaid: true
+# mermaid: true
 ---
 
 **Markdown**的画图扩展语法方面**Mermaid**已经一统六国，不建议在其它小众的画图语法上浪费时间。
@@ -31,7 +31,7 @@ A[方形] -->B(圆角)
     F[横向流程图]
 ```
 
-
+<script src="/js/mermaid.min.js"></script>
 <div class="mermaid">
 ```mermaid
 graph LR
