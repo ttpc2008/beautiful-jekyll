@@ -1,3 +1,10 @@
+---
+layout: post
+title: SAP MM Interview Questions & Answers   
+tags: [Work]
+image: /img/path.png
+---
+
 # SAP MM Interview Questions & Answers(General):
 
 ## 1. Tell me a little bit about your self.
