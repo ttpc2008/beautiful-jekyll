@@ -1,7 +1,7 @@
 ---
 layout: post
 title: SAP MM Interview Questions & Answers   
-tags: [Work]
+tags: Work
 image: /img/path.png
 ---
 
